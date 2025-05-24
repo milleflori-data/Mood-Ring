@@ -27,6 +27,6 @@ Transforms the novelty "mood ring" concept into a sophisticated psychological in
 ## 🚀 Quick Start
 
 ```bash
-git clone https://github.com/yourusername/mood-stone-assessment.git
+git clone https://github.com/milleflori-data/Mood-Ring.git
 cd mood-stone-assessment
 python mood_stone_app.py
