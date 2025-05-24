@@ -1,3 +1,5 @@
+"Taking the mood ring from novelty toy to sophisticated psychological instrument."
+
 # Mood-Ring
 complete, comprehensive Mood Stone Assessment &amp; Visualization app
 # 🔮 Mood Stone Assessment & Visualization
